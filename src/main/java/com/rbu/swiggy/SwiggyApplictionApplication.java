@@ -8,6 +8,10 @@ public class SwiggyApplictionApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SwiggyApplictionApplication.class, args);
+		//adding new code for bugfix
+		//adding new code for bugfix
+		//adding new code for bugfix
+		
 	}
 
 }
